@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy policy · Is This Vegan?</title>
+<meta name="description" content="What Is This Vegan? does with your data on iPhone and Android.">
+<link rel="icon" href="icon-120.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+<header class="site"><a href="./"><img src="icon-120.png" alt=""><span>Is This Vegan?</span></a></header>
+
+<h1>Privacy policy</h1>
+<p class="meta">Effective date: February 20, 2026 · Last updated: November 13, 2026</p>
+
+<h3>Overview</h3>
+<p>Is This Vegan? ("the App") is developed and maintained by Andreea Papillon. This Privacy Policy explains what data the App accesses, how it is used, and your rights regarding that data. It covers the App on iPhone and Android and matches the policy inside each. Where they differ, a paragraph says which it applies to: iPhone (every version), iPhone 2.1.0, iPhone 2.2.0 or later, or Android. The App has no accounts.</p>
+<h3>On your device</h3>
+<p><strong>iPhone:</strong> Text recognition (Apple Vision) runs on your device. Your scan history, including the photos, is stored on your device, in the app’s widget and in your device backups if you use them. Long-press a scan in History and choose Delete to remove it.</p>
+<p><strong>Android:</strong> Text and barcode recognition (Google’s ML Kit, through Google Play services) runs on your device; Google may receive basic statistics about how it works, but not your photos or their text. Your scan history, including the photos, is stored only on your device and isn’t included in Android backups. Delete a scan in History to remove it.</p>
+<p>We have no accounts and no copy of your history.</p>
+<h3>Usage counts</h3>
+<p><strong>iPhone:</strong> To check accuracy and cost, the app keeps simple counts on your device: how each scan was answered, AI usage and its estimated cost, and how many results were voted right or wrong. They contain no photos, text, product names, barcodes or location. They are kept for 400 days and never sent to us; like your history, they are included in your device backups. Deleting the app removes them.</p>
+<p><strong>Android:</strong> To apply the app’s own daily and monthly AI limits, the app keeps a record of each scan’s answer on your device: the time, whether the AI or the on-device check answered (and which AI model), the AI’s token counts and estimated cost, and the kind of photo. These records contain no photos, text, product names, barcodes or location. They are kept for 400 days, separately from your history, never sent to us and not included in Android backups. Uninstalling the app or clearing its storage removes them.</p>
+<h3>AI analysis</h3>
+<p>When the check on your device can’t decide, the photo, the text read from it, your country (if you allowed location) and, for a barcode, the barcode number and the product’s name and ingredients from Open Food Facts are sent over an encrypted connection to our server, which passes them to Google Gemini (Google’s paid Gemini API). Google does not use this data to train its models. Google keeps prompts and responses for up to 55 days to detect and prevent abuse, and authorised Google staff may review flagged requests. Our server does not store photos or text.</p>
+<p><strong>Android:</strong> This happens more often than on iPhone, because the phone can’t read every script, such as Thai, and the app never decides a free “vegan” answer from text it may not have read in full.</p>
+<h3>Barcode lookups</h3>
+<p>When a photo contains a barcode, your device asks Open Food Facts or Open Beauty Facts about that barcode directly. They receive the barcode number and your IP address, under their own privacy policy, which says they keep visit logs for up to three years. Product data from them is shown with attribution under the Open Database License and cached on your device for up to 30 days.</p>
+<h3>Location</h3>
+<p>Location is optional. If you allow it, the app uses your country to apply regional checks; only the country name is sent with an AI analysis.</p>
+<p><strong>iPhone:</strong> To find your country, Apple’s location service receives your position rounded to about 10 km.</p>
+<p><strong>Android:</strong> The app asks Android for your approximate location only. To find your country, it rounds that position to about 10 km and asks Google’s geocoder.</p>
+<p>If you vote on a result, your position rounded to about 1 km is sent with your vote (see Community votes). Turning location off stops all of this straight away; it doesn’t remove location already sent with a vote. You can change it any time in your phone’s settings.</p>
+<h3>Community votes</h3>
+<p><strong>Android and iPhone 2.2.0 or later:</strong> Voting is optional, needs location permission and is off in offline mode. A vote sends the product name, your vote, any note you add (up to 200 characters) and your area (to about 1 km) over an encrypted connection to our server, which runs on Cloudflare. The server stores them with your install ID and the time, and deletes each vote one year after it was made. Other users can’t see votes. We, the app’s developer, use them only to improve the app’s checks, and we don’t share them. Votes from the same install can be linked to each other, but not to your name or your Apple or Google Account. Your IP address isn’t stored with a vote.</p>
+<p><strong>iPhone 2.1.0:</strong> Voting is optional. A vote stores the product name, your vote, any note you add (up to 200 characters) and your area (to about 1 km) in Apple’s public iCloud database for this app, where other users can read it. Apple also records when you voted and an anonymous ID for your iCloud account, so votes from the same account can be linked to each other. Updating the app doesn’t move or hide votes already made; they stay in that database until we delete them.</p>
+<p>Don’t put personal details in a note. To ask us to delete your votes, email <a href="mailto:support@papillonmakes.tech">support@papillonmakes.tech</a>. As there are no accounts, tell us the product and roughly when and where you voted so we can find them.</p>
+<h3>Our server</h3>
+<p>Our server (on Cloudflare) counts AI scans per app install, using a random ID created when you install the app, and per IP address, to enforce free limits. On Android and iPhone 2.2.0 or later it counts community votes the same way. The counters are stored under the install ID and the IP address and are deleted a day after their day or month ends. Cloudflare processes your IP address to deliver the request.</p>
+<p><strong>iPhone:</strong> To check that scans come from the genuine app, the app uses Apple’s App Attest: Apple confirms the app is genuine and a key is made on your device. Our server keeps that key’s ID, its public key and a counter for this install until 90 days after your last scan. They aren’t linked to your name or Apple Account.</p>
+<p><strong>Android:</strong> To check that scans come from the genuine app, the app asks Google Play Integrity for a token with each AI scan. Google Play makes it from information about the app and your device, and our server sends it to Google to read the result. Nothing from the token is stored: our server keeps only daily totals of the results, with no identifiers, and deletes them after 8 days. For now the check doesn’t block any scan.</p>
+<h3>Purchases</h3>
+<p>Payment for Is This Vegan Plus is handled by Apple or Google; we never see your card details. If you buy Plus, the app sends the store’s transaction or purchase ID with your requests. Our server asks Apple or Google for its status, and keeps the ID, its status and the install IDs that used it until 30 days after they were last used, to check access and to stop one purchase being shared without limit. Make it vegan counts are kept per install and deleted a day after their month ends.</p>
+<h3>Your choices</h3>
+<p>You can use offline mode to keep photos on your device, deny location, skip voting, and delete scans from History (on iPhone, long-press a scan). Deleting the app (on Android, also clearing its storage) removes everything stored on your device. It doesn’t remove copies in your iPhone backups, or data already sent, such as votes; for those, see Community votes.</p>
+<h3>Children's Privacy</h3>
+<p>The App has no accounts and doesn’t add your name to anything it sends. A note contains whatever you type, so nobody, especially younger users, should put personal details in one. On iPhone 2.1.0 notes are public.</p>
+<h3>Changes to This Policy</h3>
+<p>If we make material changes to this privacy policy, we will update the "Last updated" date above.</p>
+<h3>Contact</h3>
+<p>For privacy questions or concerns, please email <a href="mailto:support@papillonmakes.tech"> support@papillonmakes.tech </a> .</p>
+
+<footer class="site">
+<a href="./">Home</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="mailto:support@papillonmakes.tech">Contact</a>
+<p>Made by <a href="https://papillonmakes.tech">Andreea Papillon</a>.</p>
+</footer>
+</div>
+</body>
+</html>
