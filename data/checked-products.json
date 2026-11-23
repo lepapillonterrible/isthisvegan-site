@@ -1,0 +1,2089 @@
+{
+  "name": "Is This Vegan? products checked from their Open Food Facts records",
+  "license": "Open Database License (ODbL) 1.0, https://opendatacommons.org/licenses/odbl/1-0/; individual contents under the Database Contents License (DbCL) 1.0",
+  "attribution": "Derived from Open Food Facts (https://openfoodfacts.org), by Open Food Facts contributors, under the ODbL 1.0. Each product links its Open Food Facts page.",
+  "description": "Products whose vegan verdict Is This Vegan? decided from the ingredients in their Open Food Facts record. These are not in-person label checks. Recipes change: check the label.",
+  "version": "checked-products-1",
+  "products": [
+    {
+      "id": "prod-7up-lemon-lime-soda",
+      "country": "VN",
+      "barcodes": [
+        "8934588022111"
+      ],
+      "name": "7Up lemon-lime soda",
+      "localName": "7Up hương chanh",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934588022111"
+    },
+    {
+      "id": "prod-ajinomoto-yasashio",
+      "country": "JP",
+      "barcodes": [
+        "4901001087235"
+      ],
+      "name": "Ajinomoto Yasashio reduced-sodium salt",
+      "localName": "やさしお",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901001087235"
+    },
+    {
+      "id": "prod-alpenliebe-mango-candy-with-chilli-salt-filling",
+      "country": "VN",
+      "barcodes": [
+        "8935001714682"
+      ],
+      "name": "Alpenliebe mango candy with chilli-salt filling",
+      "localName": "Kẹo Hương Xoài Nhân Muối Ớt",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8935001714682"
+    },
+    {
+      "id": "prod-aquarius-oral-rehydration",
+      "country": "JP",
+      "barcodes": [
+        "4902102147514"
+      ],
+      "name": "Aquarius oral rehydration drink",
+      "localName": "アクエリアス 経口補水液",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902102147514"
+    },
+    {
+      "id": "prod-asahi-cream-genmai-bran-cacao",
+      "country": "JP",
+      "barcodes": [
+        "4946842527823"
+      ],
+      "name": "Asahi Cream Genmai Bran cacao biscuits",
+      "localName": "クリーム玄米ブラン カカオ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whole egg (全卵)",
+        "whole milk powder (全粉乳)",
+        "eggshell calcium (卵殻Ca)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4946842527823"
+    },
+    {
+      "id": "prod-asahi-dodecamin",
+      "country": "JP",
+      "barcodes": [
+        "4514603396119"
+      ],
+      "name": "Asahi Dodecamin energy soda",
+      "localName": "ドデカミン",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "royal jelly (調製ローヤルゼリー)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4514603396119"
+    },
+    {
+      "id": "prod-asahi-nadaman-green-tea",
+      "country": "JP",
+      "barcodes": [
+        "4514603371611"
+      ],
+      "name": "Asahi Nadaman Japanese green tea",
+      "localName": "なだ万日本茶",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4514603371611"
+    },
+    {
+      "id": "prod-asahi-style-free",
+      "country": "JP",
+      "barcodes": [
+        "4901004039040"
+      ],
+      "name": "Asahi Style Free sugar-free beer-style drink",
+      "localName": "アサヒスタイルフリー(生)",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901004039040"
+    },
+    {
+      "id": "prod-bao-hien-rong-vang-green-bean-cake",
+      "country": "VN",
+      "barcodes": [
+        "8936016140060"
+      ],
+      "name": "Bao Hien Rong Vang green bean cake",
+      "localName": "Bảo Hiên Rồng Vàng",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936016140060"
+    },
+    {
+      "id": "prod-barona-vi-xua-fish-sauce",
+      "country": "VN",
+      "barcodes": [
+        "8936028040884"
+      ],
+      "name": "Barona Vi Xua fish sauce",
+      "localName": "Nước mắm cao cấp Vị Xưa",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "anchovy extract",
+        "carmine (E120)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936028040884"
+    },
+    {
+      "id": "prod-bourbon-alfort",
+      "country": "JP",
+      "barcodes": [
+        "4901360336715"
+      ],
+      "name": "Bourbon Alfort chocolate biscuits",
+      "localName": "ブルボン　アルフォート",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whole milk powder (全粉乳)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901360336715"
+    },
+    {
+      "id": "prod-bull-dog-tonkatsu-sauce",
+      "country": "JP",
+      "barcodes": [
+        "4902551013330"
+      ],
+      "name": "Bull-Dog tonkatsu sauce",
+      "localName": "とんかつソース",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902551013330"
+    },
+    {
+      "id": "prod-c2-lemon-green-tea-large-bottle",
+      "country": "VN",
+      "barcodes": [
+        "8934564600357"
+      ],
+      "name": "C2 lemon green tea, large bottle",
+      "localName": "C2 lớn",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934564600357"
+    },
+    {
+      "id": "prod-calbee-crisp-consomme-punch",
+      "country": "JP",
+      "barcodes": [
+        "4901330303426"
+      ],
+      "name": "Calbee Potato Chips Crisp consommé punch",
+      "localName": "ホテトチップス　クリスプ　コンソメパンチ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "chicken consommé powder (チキンコンソメパウダー)",
+        "beef consommé powder (ビーフコンソメパウダー)",
+        "animal fat (調味動物油脂)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901330303426"
+    },
+    {
+      "id": "prod-calbee-jagarico-cheese",
+      "country": "JP",
+      "barcodes": [
+        "4901330578947"
+      ],
+      "name": "Calbee Jagarico cheese potato sticks",
+      "localName": "じゃがりこチーズ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "cheddar cheese (チェダーチーズ)",
+        "whey powder (ホエイパウダー)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901330578947"
+    },
+    {
+      "id": "prod-calbee-kappa-ebisen",
+      "country": "JP",
+      "barcodes": [
+        "4901330105921"
+      ],
+      "name": "Calbee Kappa Ebisen shrimp crackers",
+      "localName": "かっぱえびせん",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "shrimp (えび)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901330105921"
+    },
+    {
+      "id": "prod-calbee-natsu-potato-tsushima-salt",
+      "country": "JP",
+      "barcodes": [
+        "4901330600280"
+      ],
+      "name": "Calbee Natsu Potato chips, Tsushima sea salt",
+      "localName": "夏ポテト　対馬の浜御塩味",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901330600280"
+    },
+    {
+      "id": "prod-calorie-mate-fruit",
+      "country": "JP",
+      "barcodes": [
+        "4987035090014"
+      ],
+      "name": "Otsuka Calorie Mate block, fruit",
+      "localName": "カロリーメイト ブロック(フルーツ味)",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg (卵)",
+        "skimmed milk powder (脱脂粉乳)",
+        "sodium caseinate (カゼインナトリウム)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4987035090014"
+    },
+    {
+      "id": "prod-cj-spam-mild",
+      "country": "KR",
+      "barcodes": [
+        "8801007029658"
+      ],
+      "name": "CJ Spam Mild",
+      "localName": "스팸®마일드",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "pork (돼지고기)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801007029658"
+    },
+    {
+      "id": "prod-coba-soybean-oil",
+      "country": "VN",
+      "barcodes": [
+        "8938526259027"
+      ],
+      "name": "Coba soybean oil",
+      "localName": "Dầu đậu nành tự nhiên",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8938526259027"
+    },
+    {
+      "id": "prod-cw-flan-flat-peach-cookies",
+      "country": "KR",
+      "barcodes": [
+        "8801204009101"
+      ],
+      "name": "CW flan flat peach cookies",
+      "localName": "플랑 납작복숭아",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg (계란)",
+        "condensed milk (연유)",
+        "cheese powder (치즈분말)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801204009101"
+    },
+    {
+      "id": "prod-dakar-milk-uht-fresh-milk",
+      "country": "VN",
+      "barcodes": [
+        "8938503131957"
+      ],
+      "name": "Dakar Milk UHT fresh milk",
+      "localName": "sữa tươi tiệt trùng",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "cow's milk (sữa bò tươi)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8938503131957"
+    },
+    {
+      "id": "prod-del-monte-whole-tomatoes",
+      "country": "JP",
+      "barcodes": [
+        "4902204001653"
+      ],
+      "name": "Del Monte whole peeled tomatoes (Kikkoman)",
+      "localName": "デルモンテ完熟ホールトマト",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902204001653"
+    },
+    {
+      "id": "prod-dgfarm-oatmeal",
+      "country": "KR",
+      "barcodes": [
+        "8809607873497"
+      ],
+      "name": "DGFarm rolled oats",
+      "localName": "부드러운 오트밀",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8809607873497"
+    },
+    {
+      "id": "prod-dnuft-mixed-nuts",
+      "country": "JP",
+      "barcodes": [
+        "4549414563573"
+      ],
+      "name": "DNUFT three-nut mix",
+      "localName": "3種のミックスナッツ",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4549414563573"
+    },
+    {
+      "id": "prod-dongwon-denmark-drinking-yogurt-berry",
+      "country": "KR",
+      "barcodes": [
+        "8801155822828"
+      ],
+      "name": "Dongwon Denmark drinking yoghurt, berry mix",
+      "localName": "덴마크 드링킹 요구르트 베리믹스 맛",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk (원유)",
+        "skimmed milk powder (탈지분유)",
+        "milk cream (유크림)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801155822828"
+    },
+    {
+      "id": "prod-dongwon-gaeseong-wang-mandu",
+      "country": "KR",
+      "barcodes": [
+        "2000000116911"
+      ],
+      "name": "Dongwon Gaeseong king dumplings",
+      "localName": "동원 개성 왕만두",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "pork (돼지고기)",
+        "meat seasoning powder (조미육분)",
+        "oyster sauce (굴소스)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/2000000116911"
+    },
+    {
+      "id": "prod-east-valley-mozzarella-pizza-cheese",
+      "country": "KR",
+      "barcodes": [
+        "8809524630111"
+      ],
+      "name": "East Valley shredded mozzarella pizza cheese",
+      "localName": "모짜렐라 피자치즈",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "mozzarella cheese (모짜렐라치즈)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8809524630111"
+    },
+    {
+      "id": "prod-ensure-liquid-nutrition-drink-vanilla",
+      "country": "VN",
+      "barcodes": [
+        "0070074118659"
+      ],
+      "name": "Ensure liquid nutrition drink, vanilla",
+      "localName": "Thực phẩm dinh dưỡng y học Ensure dạng lỏng hương vani",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk protein (đạm sữa)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/0070074118659"
+    },
+    {
+      "id": "prod-familymart-choco-choux",
+      "country": "JP",
+      "barcodes": [
+        "4903326113064"
+      ],
+      "name": "FamilyMart chocolate cream puff",
+      "localName": "チョコがたっぷり チョコシュー",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk powder (全粉乳, 脱脂粉乳)",
+        "lactose (乳糖)",
+        "whole egg (液全卵)",
+        "eggshell calcium (卵殻カルシウム)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4903326113064"
+    },
+    {
+      "id": "prod-famimaru-vanilla-monaka",
+      "country": "JP",
+      "barcodes": [
+        "4902585121322"
+      ],
+      "name": "FamilyMart Famimaru big vanilla monaka ice cream",
+      "localName": "でっかいバニラモナカ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "skimmed milk powder (脱脂粉乳)",
+        "butter (バター)",
+        "egg yolk (加糖卵黄)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902585121322"
+    },
+    {
+      "id": "prod-fanta-grape-soda",
+      "country": "VN",
+      "barcodes": [
+        "8935049501671"
+      ],
+      "name": "Fanta grape soda",
+      "localName": "Fanta Nho Hương",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8935049501671"
+    },
+    {
+      "id": "prod-fanta-sarsaparilla-soda-x-x-bottle",
+      "country": "VN",
+      "barcodes": [
+        "8935049510833"
+      ],
+      "name": "Fanta sarsaparilla soda (xá xị), bottle",
+      "localName": "Hương Xá Xị chai",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8935049510833"
+    },
+    {
+      "id": "prod-fujiya-peach-nectar",
+      "country": "JP",
+      "barcodes": [
+        "4902555220444"
+      ],
+      "name": "Fujiya peach nectar",
+      "localName": "ネクター",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902555220444"
+    },
+    {
+      "id": "prod-garsan-earl-grey-grapefruit-pie",
+      "country": "KR",
+      "barcodes": [
+        "8801204205015"
+      ],
+      "name": "Garsan Earl Grey grapefruit cakes",
+      "localName": "얼그레이자몽",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whole egg (전란)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801204205015"
+    },
+    {
+      "id": "prod-ginbis-tabekko-doubutsu-butter",
+      "country": "JP",
+      "barcodes": [
+        "4901588800548"
+      ],
+      "name": "Ginbis Tabekko Doubutsu animal biscuits, butter",
+      "localName": "たべっ子どうぶつ ビスケット バター味",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "butter (バター)",
+        "fish oil (DHA含有魚油)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901588800548"
+    },
+    {
+      "id": "prod-glico-bisco-cream-sandwich",
+      "country": "JP",
+      "barcodes": [
+        "4901005120273"
+      ],
+      "name": "Glico Bisco cream sandwich biscuits",
+      "localName": "ビスコ クリームサンドビスケット",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "lactose (乳糖)",
+        "sweetened condensed milk (加糖練乳)",
+        "whole milk powder (全粉乳)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901005120273"
+    },
+    {
+      "id": "prod-glico-sweet-orange-mikan",
+      "country": "JP",
+      "barcodes": [
+        "4971666410136"
+      ],
+      "name": "Glico sweet orange and mikan juice",
+      "localName": "スイートオレンジ＆温州みかん",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4971666410136"
+    },
+    {
+      "id": "prod-gogo-no-kocha-strawberry",
+      "country": "JP",
+      "barcodes": [
+        "4909411090579"
+      ],
+      "name": "Kirin Gogo no Kocha strawberry black tea",
+      "localName": "午後の紅茶　ゆうべに",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4909411090579"
+    },
+    {
+      "id": "prod-golden-farm-hazelnut-spread",
+      "country": "VN",
+      "barcodes": [
+        "8935118310210"
+      ],
+      "name": "Golden Farm hazelnut spread",
+      "localName": "Bơ Hạt Phỉ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk powder"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8935118310210"
+    },
+    {
+      "id": "prod-han-ling-ginger-tea",
+      "country": "VN",
+      "barcodes": [
+        "8936024120030"
+      ],
+      "name": "Han Ling ginger tea",
+      "localName": "Trà gừng",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936024120030"
+    },
+    {
+      "id": "prod-happy-soybean-korean-soy-tofu",
+      "country": "KR",
+      "barcodes": [
+        "7801022034270"
+      ],
+      "name": "Haengbokhan Kong tofu from 100% Korean soybeans",
+      "localName": "국산콩100%두부",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/7801022034270"
+    },
+    {
+      "id": "prod-happy-soybean-tofu",
+      "country": "KR",
+      "barcodes": [
+        "17609784"
+      ],
+      "name": "Haengbokhan Kong tofu",
+      "localName": "두부",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/17609784"
+    },
+    {
+      "id": "prod-hata-yakisoba-ramune",
+      "country": "JP",
+      "barcodes": [
+        "4902494190310"
+      ],
+      "name": "Hata Kosen yakisoba-flavoured ramune soda",
+      "localName": "焼きそば風ラムネ",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902494190310"
+    },
+    {
+      "id": "prod-itoen-rooibos-tea",
+      "country": "JP",
+      "barcodes": [
+        "4901085628386"
+      ],
+      "name": "Ito En rooibos tea",
+      "localName": "ルイボスティー",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901085628386"
+    },
+    {
+      "id": "prod-itoen-vegetable-juice",
+      "country": "JP",
+      "barcodes": [
+        "4901085046449"
+      ],
+      "name": "Ito En 1 day's worth of vegetables juice",
+      "localName": "1日分の野菜",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901085046449"
+    },
+    {
+      "id": "prod-iyemon-green-tea",
+      "country": "JP",
+      "barcodes": [
+        "4901777366978"
+      ],
+      "name": "Iyemon bottled green tea (Kyoto Fukujuen)",
+      "localName": "茶",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901777366978"
+    },
+    {
+      "id": "prod-kabaya-tough-gummy-cola",
+      "country": "JP",
+      "barcodes": [
+        "4901550267393"
+      ],
+      "name": "Kabaya Tough Gummy cola, energy drink and soda",
+      "localName": "Tough Gummy タフグミ コーラ エナジードリンク ソーダ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "gelatin (ゼラチン)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901550267393"
+    },
+    {
+      "id": "prod-kadoya-chili-oil",
+      "country": "JP",
+      "barcodes": [
+        "49638165"
+      ],
+      "name": "Kadoya chili oil (rayu)",
+      "localName": "ラー油",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/49638165"
+    },
+    {
+      "id": "prod-kagiya-fugashi",
+      "country": "JP",
+      "barcodes": [
+        "4901406150015"
+      ],
+      "name": "Kagiya Seika fugashi wheat-gluten sweets",
+      "localName": "ふ菓子",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "eggshell calcium (卵殻カルシウム)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901406150015"
+    },
+    {
+      "id": "prod-kagome-yasai-seikatsu-citrus",
+      "country": "JP",
+      "barcodes": [
+        "4901306008393"
+      ],
+      "name": "Kagome Yasai Seikatsu 100 Setouchi citrus mix juice",
+      "localName": "野菜生活100 瀬戸内柑橘ミックス",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901306008393"
+    },
+    {
+      "id": "prod-kanro-pure-gummy-pink-lemonade",
+      "country": "JP",
+      "barcodes": [
+        "4901351056417"
+      ],
+      "name": "Kanro Pure Gummy pink lemonade",
+      "localName": "ピュレグミ　ピンクレモネード",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "gelatin (ゼラチン)",
+        "collagen peptide (コラーゲンペプチド)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901351056417"
+    },
+    {
+      "id": "prod-kayanoya-dashi",
+      "country": "JP",
+      "barcodes": [
+        "4528480508237"
+      ],
+      "name": "Kayanoya dashi stock packs",
+      "localName": "茅乃舎だし",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "bonito flakes (かつお節)",
+        "sardine (いわし煮干しエキスパウダー, うるめいわし節)",
+        "flying fish (焼きあご)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4528480508237"
+    },
+    {
+      "id": "prod-kewpie-mayonnaise",
+      "country": "JP",
+      "barcodes": [
+        "4901577001666"
+      ],
+      "name": "Kewpie mayonnaise",
+      "localName": "キューピーマヨネーズ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg yolk (卵黄)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901577001666"
+    },
+    {
+      "id": "prod-kinh-do-crab-flavour-snack-snack-v-cua",
+      "country": "VN",
+      "barcodes": [
+        "8934680012652"
+      ],
+      "name": "Kinh Do crab flavour snack (snack vị cua)",
+      "localName": "Snack vị cua",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "crab seasoning (crustaceans, fish and milk in the allergen line)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934680012652"
+    },
+    {
+      "id": "prod-kirin-ichiban-shibori",
+      "country": "JP",
+      "barcodes": [
+        "4901411176611"
+      ],
+      "name": "Kirin Ichiban Shibori beer",
+      "localName": "キリン一番搾り",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901411176611"
+    },
+    {
+      "id": "prod-konnyaku-batake-white-peach",
+      "country": "JP",
+      "barcodes": [
+        "4902738252040"
+      ],
+      "name": "Mannan Life Konnyaku Batake white peach jelly",
+      "localName": "蒟蒻畑　白桃味",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902738252040"
+    },
+    {
+      "id": "prod-kopiko-coffee-candy",
+      "country": "KR",
+      "barcodes": [
+        "8886001200197"
+      ],
+      "name": "Kopiko coffee candy (imported)",
+      "localName": "코피코 커피맛 캔디",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "butter (버터)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8886001200197"
+    },
+    {
+      "id": "prod-kun-grape-fruit-milk-drink",
+      "country": "VN",
+      "barcodes": [
+        "8936025773181"
+      ],
+      "name": "KUN grape fruit milk drink",
+      "localName": "sữa kun trái cây KUN hương nho",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk powder (bột sữa)",
+        "carmine (màu tự nhiên (120))"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936025773181"
+    },
+    {
+      "id": "prod-lawson-melon-pan",
+      "country": "JP",
+      "barcodes": [
+        "4549737011607"
+      ],
+      "name": "Lawson melon bread",
+      "localName": "メロンパン",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whole egg (全卵)",
+        "butter (バター)",
+        "skimmed milk powder (脱脂粉乳)",
+        "fresh cream (生クリーム)",
+        "egg white powder (卵白粉)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4549737011607"
+    },
+    {
+      "id": "prod-lays-nori-seaweed-flavour-potato-chips",
+      "country": "VN",
+      "barcodes": [
+        "8936079121020"
+      ],
+      "name": "Lay's nori seaweed flavour potato chips",
+      "localName": "Lay's vị tảo biển Nori",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "shrimp"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936079121020"
+    },
+    {
+      "id": "prod-longpie-chocolate-coated-marshmallow-cake",
+      "country": "VN",
+      "barcodes": [
+        "8934595055348"
+      ],
+      "name": "LongPie chocolate-coated marshmallow cake",
+      "localName": "Bánh kem Marshmallow phủ Sôcôla",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg (trứng gà)",
+        "whey powder (bột whey)",
+        "skimmed milk powder (bột sữa gầy)",
+        "gelatin",
+        "egg white powder (bột lòng trắng trứng)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934595055348"
+    },
+    {
+      "id": "prod-lotte-malang-cow-candy",
+      "country": "KR",
+      "barcodes": [
+        "8801062334278"
+      ],
+      "name": "Lotte Malang Cow soft milk candy",
+      "localName": "푹신푹신 말랑카우",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk (우유)",
+        "milk cream (유크림)",
+        "whey powder (유청분말)",
+        "gelatin (젤라틴)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801062334278"
+    },
+    {
+      "id": "prod-lotte-xylitol-gum-grape",
+      "country": "JP",
+      "barcodes": [
+        "4903333218370"
+      ],
+      "name": "Lotte Xylitol gum, grape",
+      "localName": "キシリトールガム　グレープ　ファミリーボトル",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "gelatin named in the allergen note (ゼラチン)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4903333218370"
+    },
+    {
+      "id": "prod-maccoffee-cafe-pho-instant-coffee-mix",
+      "country": "VN",
+      "barcodes": [
+        "8936024241667"
+      ],
+      "name": "MacCoffee Cafe Pho instant coffee mix",
+      "localName": "Café PHÔ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "sodium caseinate (natri caseinate)",
+        "milk solids (chất khô từ sữa)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936024241667"
+    },
+    {
+      "id": "prod-maeil-unsweetened-soy-milk",
+      "country": "KR",
+      "barcodes": [
+        "8801121768457"
+      ],
+      "name": "Maeil soy milk (soybean and salt only)",
+      "localName": "매일 두유",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801121768457"
+    },
+    {
+      "id": "prod-mai-vang-boom-boom-sausage-x-c-x-ch",
+      "country": "VN",
+      "barcodes": [
+        "8934572296894"
+      ],
+      "name": "Mai Vang Boom Boom sausage (xúc xích)",
+      "localName": "Boom Boom Xúc Xích",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "chicken (thịt gà)",
+        "pork fat (mỡ heo)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934572296894"
+    },
+    {
+      "id": "prod-marue-ginger-candy",
+      "country": "JP",
+      "barcodes": [
+        "4902987036224"
+      ],
+      "name": "Marue ginger candy",
+      "localName": "生姜飴",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902987036224"
+    },
+    {
+      "id": "prod-marukin-soy-sauce",
+      "country": "JP",
+      "barcodes": [
+        "4902032110794"
+      ],
+      "name": "Marukin freshly pressed soy sauce",
+      "localName": "しぼりたて生しょうゆ",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902032110794"
+    },
+    {
+      "id": "prod-marumiya-noritama-variety",
+      "country": "JP",
+      "barcodes": [
+        "4902820116113"
+      ],
+      "name": "Marumiya Noritama variety furikake",
+      "localName": "のりたま&バラエティー",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg (鶏卵加工品)",
+        "lactose (乳糖)",
+        "mackerel flakes (さば削り節)",
+        "chicken (鶏肉粉末, 鶏脂)",
+        "seafood extract (魚介)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902820116113"
+    },
+    {
+      "id": "prod-meiji-sokkou-genki-ginseng",
+      "country": "JP",
+      "barcodes": [
+        "4902777310329"
+      ],
+      "name": "Meiji Sokkou Genki ginseng energy jelly drink",
+      "localName": "即攻元気　高麗人参+",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "royal jelly (ローヤルゼリー)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902777310329"
+    },
+    {
+      "id": "prod-mirinda-sarsaparilla-soda-x-x",
+      "country": "VN",
+      "barcodes": [
+        "8934588133060"
+      ],
+      "name": "Mirinda sarsaparilla soda (xá xị)",
+      "localName": "Xá Xị Hương",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934588133060"
+    },
+    {
+      "id": "prod-mitsuya-ruby-lemonade",
+      "country": "JP",
+      "barcodes": [
+        "4514603439014"
+      ],
+      "name": "Asahi Mitsuya ruby lemonade",
+      "localName": "三ツ矢シャキッとルビーレモネード",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4514603439014"
+    },
+    {
+      "id": "prod-moc-nguyen-thai-nguyen-green-tea-special-grade",
+      "country": "VN",
+      "barcodes": [
+        "8936160626120"
+      ],
+      "name": "Moc Nguyen Thai Nguyen green tea, special grade",
+      "localName": "Trà Mộc Nguyên, loại đặc biệt",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936160626120"
+    },
+    {
+      "id": "prod-morinaga-silken-tofu",
+      "country": "JP",
+      "barcodes": [
+        "4902720144032"
+      ],
+      "name": "Morinaga silken tofu",
+      "localName": "絹とうふ",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902720144032"
+    },
+    {
+      "id": "prod-nabisco-oreo-japan",
+      "country": "JP",
+      "barcodes": [
+        "4547894660010"
+      ],
+      "name": "Oreo cookies, Japanese recipe (Nabisco)",
+      "localName": "オレオ - Oreo",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "lactose (乳糖)",
+        "whey powder (ホエイパウダー)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4547894660010"
+    },
+    {
+      "id": "prod-nagatanien-asage-miso-soup",
+      "country": "JP",
+      "barcodes": [
+        "4902388200729"
+      ],
+      "name": "Nagatanien Asage instant miso soup",
+      "localName": "あさげ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "bonito flake powder (鰹節粉, 宗田鰹節粉)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902388200729"
+    },
+    {
+      "id": "prod-nagatanien-ochazuke-assortment",
+      "country": "JP",
+      "barcodes": [
+        "4902388001180"
+      ],
+      "name": "Nagatanien Ajiwai ochazuke assortment",
+      "localName": "味わい茶漬け",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "bonito (鰹節粉, 鰹エキス)",
+        "seafood extract (魚介エキス)",
+        "salmon (鮭フレーク)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902388001180"
+    },
+    {
+      "id": "prod-naturfish-shredded-squid-with-coconut",
+      "country": "VN",
+      "barcodes": [
+        "8936085660704"
+      ],
+      "name": "Naturfish shredded squid with coconut",
+      "localName": "Mực xé cốt dừa",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "squid (mực)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936085660704"
+    },
+    {
+      "id": "prod-new-choice-mini-fruit-jellies",
+      "country": "VN",
+      "barcodes": [
+        "0003501660091"
+      ],
+      "name": "New Choice mini fruit jellies",
+      "localName": "Thạch rau câu hương trái cây tổng hợp",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/0003501660091"
+    },
+    {
+      "id": "prod-nishio-yatsuhashi",
+      "country": "JP",
+      "barcodes": [
+        "4962133000288"
+      ],
+      "name": "Nishio yatsuhashi cinnamon rice crackers",
+      "localName": "八ツ橋",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4962133000288"
+    },
+    {
+      "id": "prod-nissui-salted-edamame",
+      "country": "JP",
+      "barcodes": [
+        "4902150650592"
+      ],
+      "name": "Nissui frozen salted edamame",
+      "localName": "塩あじえだ豆",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902150650592"
+    },
+    {
+      "id": "prod-nongshim-gamjakkang",
+      "country": "KR",
+      "barcodes": [
+        "8801043020756"
+      ],
+      "name": "Nongshim Gamjakkang potato snack",
+      "localName": "감자깡",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whey powder (유청분말)",
+        "pork seasoning oil (포크시즈닝오일)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801043020756"
+    },
+    {
+      "id": "prod-nongshim-sari-gomtang-myeon",
+      "country": "KR",
+      "barcodes": [
+        "8801043015165"
+      ],
+      "name": "Nongshim Sari Gomtang beef bone soup noodles",
+      "localName": "사리곰탕면",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "beef bone extract (사골추출물)",
+        "pork bone seasoning (돈골조미분말)",
+        "eggshell calcium (난각칼슘)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801043015165"
+    },
+    {
+      "id": "prod-nongshim-shin-ramyun",
+      "country": "KR",
+      "barcodes": [
+        "2000000021345"
+      ],
+      "name": "Nongshim Shin Ramyun",
+      "localName": "Shin Ramyun (신라면)",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "seasoned beef powder (조미소고기분말)",
+        "pork bone seasoning (돈골조미분말)",
+        "beef bone seasoning (우골마늘조미분)",
+        "eggshell calcium (난각칼슘)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/2000000021345"
+    },
+    {
+      "id": "prod-north-colors-sweet-potato-chips",
+      "country": "JP",
+      "barcodes": [
+        "4562343850637"
+      ],
+      "name": "North Colors sweet potato chips",
+      "localName": "さつま芋ちっぷ",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4562343850637"
+    },
+    {
+      "id": "prod-oishi-spicy-shrimp-snack",
+      "country": "VN",
+      "barcodes": [
+        "8934803044270"
+      ],
+      "name": "Oishi spicy shrimp snack",
+      "localName": "Snack tôm cay đặc biệt",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "shrimp (tôm)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934803044270"
+    },
+    {
+      "id": "prod-organic-rice-puffs-purple-sweet-potato",
+      "country": "KR",
+      "barcodes": [
+        "2000000116905"
+      ],
+      "name": "Organic brown-rice puffs with purple sweet potato (Ssal-ipang)",
+      "localName": "유기농 쌀로만든 쌀이팡(자색고구마)",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/2000000116905"
+    },
+    {
+      "id": "prod-orion-chocopie",
+      "country": "VN",
+      "barcodes": [
+        "8936036020373"
+      ],
+      "name": "Orion ChocoPie",
+      "localName": "Bánh ChocoPie",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whole milk powder",
+        "eggs",
+        "gelatin",
+        "hydrolysed milk protein"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936036020373"
+    },
+    {
+      "id": "prod-orion-haute-fromage",
+      "country": "KR",
+      "barcodes": [
+        "8801117536916"
+      ],
+      "name": "Orion Haute Fromage cheese cakes",
+      "localName": "오뜨 프로마즈",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "whole egg (전란액)",
+        "egg yolk (난황액)",
+        "lactose (유당)",
+        "cheese powders (에멘탈치즈분말, 블루치즈분말)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801117536916"
+    },
+    {
+      "id": "prod-orion-yegam-cheese-gratin",
+      "country": "KR",
+      "barcodes": [
+        "8801117282301"
+      ],
+      "name": "Orion Yegam cheese gratin potato chips",
+      "localName": "예감 치즈그라탕맛",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "cheese powder (치즈분말)",
+        "whey powder (유청분말)",
+        "lactose (유당)",
+        "sodium caseinate (카제인나트륨)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801117282301"
+    },
+    {
+      "id": "prod-ottogi-mushroom-cream-soup",
+      "country": "KR",
+      "barcodes": [
+        "8801045051109"
+      ],
+      "name": "Ottogi mushroom cream soup powder",
+      "localName": "양송이 스프",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk cream and whole milk powder (유크림분말, 전지분유)",
+        "whey powder (유청분말)",
+        "chicken extract (닭고기추출물)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801045051109"
+    },
+    {
+      "id": "prod-paris-baguette-cheddar-cheese-bun",
+      "country": "KR",
+      "barcodes": [
+        "00110214"
+      ],
+      "name": "Paris Baguette cheddar cheese bun",
+      "localName": "체다치즈 후레쉬번",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "cheddar cheese (체다치즈)",
+        "butter and cream (버터, 크림)",
+        "whole egg (전란)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/00110214"
+    },
+    {
+      "id": "prod-paris-baguette-moist-cheesecake",
+      "country": "KR",
+      "barcodes": [
+        "11129271"
+      ],
+      "name": "Paris Baguette moist cheesecake",
+      "localName": "축축한 치즈케익",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg (계란)",
+        "cream cheese (크림치즈)",
+        "milk cream (유크림)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/11129271"
+    },
+    {
+      "id": "prod-pepsi-cola",
+      "country": "KR",
+      "barcodes": [
+        "8801056610012"
+      ],
+      "name": "Pepsi cola (Lotte Chilsung)",
+      "localName": "펩시콜라",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801056610012"
+    },
+    {
+      "id": "prod-pepsi-zero-sugar-lime",
+      "country": "KR",
+      "barcodes": [
+        "8801056241506"
+      ],
+      "name": "Pepsi Zero Sugar lime, caffeine-free",
+      "localName": "펩시 제로 슈거 라임향 제로 카페인",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801056241506"
+    },
+    {
+      "id": "prod-pine-budou-mittsu-candy",
+      "country": "JP",
+      "barcodes": [
+        "4902435001934"
+      ],
+      "name": "Pine Budou Mittsu grape candy",
+      "localName": "ぶどう3つ",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902435001934"
+    },
+    {
+      "id": "prod-poca-coated-peanuts-cheese-flavour",
+      "country": "VN",
+      "barcodes": [
+        "8936079120733"
+      ],
+      "name": "Poca coated peanuts, cheese flavour",
+      "localName": "Đậu phộng da cá vị phô mai",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk solids"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936079120733"
+    },
+    {
+      "id": "prod-poca-coated-peanuts-u-ph-ng-da-c",
+      "country": "VN",
+      "barcodes": [
+        "8936079120726"
+      ],
+      "name": "Poca coated peanuts (đậu phộng da cá)",
+      "localName": "Đậu phộng da cá",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "lactose"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936079120726"
+    },
+    {
+      "id": "prod-post-oreo-os-cereal",
+      "country": "KR",
+      "barcodes": [
+        "8801037065626"
+      ],
+      "name": "Post Oreo O's cereal",
+      "localName": "오레오 오즈",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "gelatin (젤라틴)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801037065626"
+    },
+    {
+      "id": "prod-pulmuone-danone-yogurt",
+      "country": "KR",
+      "barcodes": [
+        "8809274512699"
+      ],
+      "name": "Pulmuone (Danone) yoghurt",
+      "localName": "풀무원요거트",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk (원유)",
+        "skimmed milk powder and milk protein (탈지분유, 농축유단백분말)",
+        "fish gelatin (어류젤라틴)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8809274512699"
+    },
+    {
+      "id": "prod-richy-karo-egg-cake-with-chicken-floss",
+      "country": "VN",
+      "barcodes": [
+        "8936047443444"
+      ],
+      "name": "Richy Karo egg cake with chicken floss",
+      "localName": "Richy Karo Trứng tươi chà bông",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "fresh egg (trứng gà tươi)",
+        "chicken floss (chà bông gà)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936047443444"
+    },
+    {
+      "id": "prod-sajo-oyang-cheese-sticks",
+      "country": "KR",
+      "barcodes": [
+        "2000000116914"
+      ],
+      "name": "Sajo Oyang breaded cheese sticks",
+      "localName": "오양 치즈스틱",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "mozzarella cheese (모짜렐라치즈)",
+        "rennet casein (렌넷카제인)",
+        "egg white (난백)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/2000000116914"
+    },
+    {
+      "id": "prod-samyang-carbo-buldak",
+      "country": "KR",
+      "barcodes": [
+        "8801073113770"
+      ],
+      "name": "Samyang Carbo Buldak (carbonara hot chicken) noodles",
+      "localName": "까르보 불닭볶음면",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "grilled chicken concentrate (그릴치킨농축액)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801073113770"
+    },
+    {
+      "id": "prod-selex-profit-milk-vanilla",
+      "country": "KR",
+      "barcodes": [
+        "8809846900893"
+      ],
+      "name": "Selex Pro-fit vanilla protein milk drink",
+      "localName": "프로핏 밀크 바닐라",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk protein (분리유단백)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8809846900893"
+    },
+    {
+      "id": "prod-sempio-canned-mackerel",
+      "country": "KR",
+      "barcodes": [
+        "8801005401814"
+      ],
+      "name": "Sempio canned mackerel",
+      "localName": "고등어캔",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "mackerel (고등어)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801005401814"
+    },
+    {
+      "id": "prod-sempio-traditional-doenjang",
+      "country": "KR",
+      "barcodes": [
+        "8801005149822"
+      ],
+      "name": "Sempio traditional soybean paste (doenjang)",
+      "localName": "숨쉬는 재래식된장",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801005149822"
+    },
+    {
+      "id": "prod-seoul-milk-cheese-beef-jerky",
+      "country": "KR",
+      "barcodes": [
+        "8801115650010"
+      ],
+      "name": "Seoul Milk cheese beef jerky",
+      "localName": "치즈육포",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "beef (쇠고기)",
+        "cheese (치즈)",
+        "butter (버터)",
+        "skimmed milk powder (탈지분유)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801115650010"
+    },
+    {
+      "id": "prod-seoul-milk-low-fat-milk",
+      "country": "KR",
+      "barcodes": [
+        "8801115118169"
+      ],
+      "name": "Seoul Milk low-fat milk",
+      "localName": "저지방우유",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk (원유)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801115118169"
+    },
+    {
+      "id": "prod-seven-cafe-choco-chip-cookie",
+      "country": "JP",
+      "barcodes": [
+        "4901360350957"
+      ],
+      "name": "Seven Cafe chocolate chip cookies",
+      "localName": "チョコチップクッキー",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "butter (バター)",
+        "whole egg (液全卵)",
+        "lactose (乳糖)",
+        "whole milk powder (全粉乳)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901360350957"
+    },
+    {
+      "id": "prod-seven-premium-lemon-cider",
+      "country": "JP",
+      "barcodes": [
+        "4902471100011"
+      ],
+      "name": "Seven Premium lemon soda",
+      "localName": "レモンサイダー",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902471100011"
+    },
+    {
+      "id": "prod-seven-premium-whole-wheat-choco",
+      "country": "JP",
+      "barcodes": [
+        "4903326112906"
+      ],
+      "name": "Seven Premium whole-wheat crunchy chocolate",
+      "localName": "小麦全粒粉入り サクサク食感の しっとりチョコ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk powder (全粉乳, 脱脂粉乳)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4903326112906"
+    },
+    {
+      "id": "prod-shinseondoweon-doenjang",
+      "country": "KR",
+      "barcodes": [
+        "8802043002575"
+      ],
+      "name": "Shinseondoweon traditional soybean paste (doenjang)",
+      "localName": "재래식 된장",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8802043002575"
+    },
+    {
+      "id": "prod-simply-rice-bran-oil",
+      "country": "VN",
+      "barcodes": [
+        "8934988021028"
+      ],
+      "name": "Simply rice bran oil",
+      "localName": "dầu gạo",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934988021028"
+    },
+    {
+      "id": "prod-simply-soybean-oil",
+      "country": "VN",
+      "barcodes": [
+        "8934988020021"
+      ],
+      "name": "Simply soybean oil",
+      "localName": "Dầu đậu nành",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934988020021"
+    },
+    {
+      "id": "prod-songhak-rice-tteok",
+      "country": "KR",
+      "barcodes": [
+        "8803560000143"
+      ],
+      "name": "Songhak rice cakes (tteok)",
+      "localName": "쌀떡",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8803560000143"
+    },
+    {
+      "id": "prod-staff-sandwich-bread",
+      "country": "VN",
+      "barcodes": [
+        "8934760212903"
+      ],
+      "name": "Staff sandwich bread",
+      "localName": "Staff - bánh mì sandwich",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "egg (trứng)",
+        "milk powder (sữa bột)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934760212903"
+    },
+    {
+      "id": "prod-starbucks-cafe-latte-cup",
+      "country": "KR",
+      "barcodes": [
+        "8801115381518"
+      ],
+      "name": "Starbucks caffè latte chilled cup (Seoul Milk)",
+      "localName": "스타벅스 카페라떼",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk (원유, 우유)",
+        "cream (유크림)",
+        "skimmed milk powder (탈지분유)",
+        "sodium caseinate (카제인나트륨)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8801115381518"
+    },
+    {
+      "id": "prod-sugus-fruit-chewy-candy",
+      "country": "VN",
+      "barcodes": [
+        "8851929011668"
+      ],
+      "name": "Sugus fruit chewy candy",
+      "localName": "Kẹo mềm hương trái cây",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "bovine gelatine"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8851929011668"
+    },
+    {
+      "id": "prod-tent-wo-okara-cookie-strawberry",
+      "country": "JP",
+      "barcodes": [
+        "4570018723070"
+      ],
+      "name": "TENT-WO okara cookies, strawberry",
+      "localName": "国産大豆100％使用おからクッキー いちごプレーン",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4570018723070"
+    },
+    {
+      "id": "prod-thien-nga-lime-leaf-chicken-jerky-kh-g",
+      "country": "VN",
+      "barcodes": [
+        "8938529459127"
+      ],
+      "name": "Thien Nga lime-leaf chicken jerky (khô gà)",
+      "localName": "Khô gà lá chanh",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "chicken (thịt gà)",
+        "fish sauce (nước mắm)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8938529459127"
+    },
+    {
+      "id": "prod-todam-rice-tteokbokki-cakes",
+      "country": "KR",
+      "barcodes": [
+        "8809399241146"
+      ],
+      "name": "Todam rice cakes for tteokbokki",
+      "localName": "쌀떡볶이",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8809399241146"
+    },
+    {
+      "id": "prod-tohato-amijaga-lightly-salted",
+      "country": "JP",
+      "barcodes": [
+        "4901940114184"
+      ],
+      "name": "Tohato Amijaga lightly salted potato snack",
+      "localName": "あみじゃが　うすしお味",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "beef extract (ビーフエキスパウダー)",
+        "lactose (乳糖)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4901940114184"
+    },
+    {
+      "id": "prod-topvalu-baumkuchen",
+      "country": "JP",
+      "barcodes": [
+        "4549741165990"
+      ],
+      "name": "Topvalu soft baumkuchen cake",
+      "localName": "しっとりふんわりバウムクーヘン",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "liquid egg (液卵)",
+        "milk named in the allergen note (乳成分)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4549741165990"
+    },
+    {
+      "id": "prod-topvalu-okonomi-sauce",
+      "country": "JP",
+      "barcodes": [
+        "4549741805568"
+      ],
+      "name": "Topvalu Best Price okonomiyaki sauce",
+      "localName": "お好みソース",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "bonito (かつおエキス, かつおだし, かつお節粉末)",
+        "scallop extract (ホタテエキス)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4549741805568"
+    },
+    {
+      "id": "prod-topvalu-organic-soy-milk",
+      "country": "JP",
+      "barcodes": [
+        "4902121317301"
+      ],
+      "name": "Topvalu organic unadjusted soy milk",
+      "localName": "オーガニック成分無調整豆乳",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4902121317301"
+    },
+    {
+      "id": "prod-tuan-anh-dried-peaches",
+      "country": "VN",
+      "barcodes": [
+        "8937200011579"
+      ],
+      "name": "Tuan Anh dried peaches",
+      "localName": "Quả đào sấy khô",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8937200011579"
+    },
+    {
+      "id": "prod-v-food-chicken-eggs",
+      "country": "VN",
+      "barcodes": [
+        "8936013680033"
+      ],
+      "name": "V. Food chicken eggs",
+      "localName": "TRỨNG GÀ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "chicken eggs (trứng gà)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8936013680033"
+    },
+    {
+      "id": "prod-vifon-bun-bo-hue-instant-rice-noodles",
+      "country": "VN",
+      "barcodes": [
+        "8935311140713"
+      ],
+      "name": "Vifon bun bo Hue instant rice noodles",
+      "localName": "Bún bò Huế",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "beef extract",
+        "beef fat",
+        "shrimp paste"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8935311140713"
+    },
+    {
+      "id": "prod-vifon-hoang-gia-instant-pho-with-beef",
+      "country": "VN",
+      "barcodes": [
+        "8935311110365"
+      ],
+      "name": "Vifon Hoang Gia instant pho with beef",
+      "localName": "Hoàng Gia phở thịt bò",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "beef (thịt bò)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8935311110365"
+    },
+    {
+      "id": "prod-vinamilk-ong-tho-sweetened-condensed-milk",
+      "country": "VN",
+      "barcodes": [
+        "8934673208369"
+      ],
+      "name": "Vinamilk Ong Tho sweetened condensed milk",
+      "localName": "Ông Thọ Cao Cấp Sweetened Condensed Milk",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "milk",
+        "milk powder",
+        "milk fat",
+        "whey powder",
+        "lactose"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934673208369"
+    },
+    {
+      "id": "prod-vinh-hao-still-natural-mineral-water",
+      "country": "VN",
+      "barcodes": [
+        "8934840000130"
+      ],
+      "name": "Vinh Hao still natural mineral water",
+      "localName": "Nước khoáng không ga tự nhiên Vĩnh Hảo",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934840000130"
+    },
+    {
+      "id": "prod-vinh-thuan-rice-roll-flour-b-t-b-nh-cu-n",
+      "country": "VN",
+      "barcodes": [
+        "8934734082037"
+      ],
+      "name": "Vinh Thuan rice-roll flour (bột bánh cuốn)",
+      "localName": "Bột Bánh Cuốn",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934734082037"
+    },
+    {
+      "id": "prod-vissan-mai-que-lo-chinese-sausage-l-p-x-ng",
+      "country": "VN",
+      "barcodes": [
+        "8934572260543"
+      ],
+      "name": "Vissan Mai Que Lo Chinese sausage (lạp xưởng)",
+      "localName": "Lạp xưởng Mai Quế Lộ",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "lean pork (nạc heo)",
+        "pork fat (mỡ heo)",
+        "collagen casing (ruột collagen)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934572260543"
+    },
+    {
+      "id": "prod-vissan-stewed-pork-canned",
+      "country": "VN",
+      "barcodes": [
+        "8934572003003"
+      ],
+      "name": "Vissan stewed pork, canned",
+      "localName": "Heo Hầm",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "pork",
+        "fish sauce"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/8934572003003"
+    },
+    {
+      "id": "prod-wang-korea-dried-kelp",
+      "country": "KR",
+      "barcodes": [
+        "0087703000957"
+      ],
+      "name": "Wang Korea dried kelp (dasima)",
+      "localName": "맑은바다 다시마",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/0087703000957"
+    },
+    {
+      "id": "prod-weinrich-dark-couverture-chocolate",
+      "country": "KR",
+      "barcodes": [
+        "2000000116907"
+      ],
+      "name": "Weinrich dark couverture chocolate (imported)",
+      "localName": "바인리히 다크커버처 초콜릿",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/2000000116907"
+    },
+    {
+      "id": "prod-wilkinson-ginger-ale",
+      "country": "JP",
+      "barcodes": [
+        "4514603238112"
+      ],
+      "name": "Asahi Wilkinson ginger ale",
+      "localName": "ウィルキンソン　 ジンジャエール",
+      "verdict": "vegan",
+      "animalIngredients": [],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4514603238112"
+    },
+    {
+      "id": "prod-yamazaki-curry-bread",
+      "country": "JP",
+      "barcodes": [
+        "4903110060536"
+      ],
+      "name": "Yamazaki curry bread",
+      "localName": "カレーパン",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "pork (豚肉)",
+        "beef (牛肉)",
+        "lard (ラード)",
+        "beef tallow (牛脂)",
+        "egg (卵)",
+        "milk (乳成分)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4903110060536"
+    },
+    {
+      "id": "prod-yumeya-tamari-senbei",
+      "country": "JP",
+      "barcodes": [
+        "4976902014468"
+      ],
+      "name": "Yumeya tamari rice crackers",
+      "localName": "たまりせん",
+      "verdict": "not_vegan",
+      "animalIngredients": [
+        "bonito extract (かつお節エキス)"
+      ],
+      "checkedOn": "2026-11-22",
+      "source": "https://world.openfoodfacts.org/product/4976902014468"
+    }
+  ]
+}
